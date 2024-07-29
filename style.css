@@ -87,11 +87,11 @@ button{
    -ms-transform: translateY(90px);
    -o-transform: translateY(90px);
    opacity: 0;
-   transition: transform .40s , opacity .30s;
-   -webkit-transition: transform .40s , opacity .30s;
-   -moz-transition: transform .40s , opacity .30s;
-   -ms-transition: transform .40s , opacity .30s;
-   -o-transition: transform .40s , opacity .30s;
+   transition: transform .50s , opacity .60s;
+   -webkit-transition: transform .50s , opacity .60s;
+   -moz-transition: transform .50s , opacity .60s;
+   -ms-transition: transform .50s , opacity .60s;
+   -o-transition: transform .50s , opacity .60s;
    border-radius: 15px;
    padding: 12px 15px;
    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
